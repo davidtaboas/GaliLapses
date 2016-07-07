@@ -1,0 +1,35 @@
+{
+  "name": "GaliLapses",
+  "version": "0.5.0",
+  "description": "Timelapses das cidades galegas empregando as cámaras da CRTVG.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtaboas/galilapses.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "image",
+    "webcams",
+    "galicia"
+  ],
+  "author": "David Táboas <hola@davidtaboas.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidtaboas/galilapses/issues"
+  },
+  "homepage": "https://github.com/davidtaboas/galilapses#readme",
+  "dependencies": {
+    "gm": "^1.21.1",
+    "moment": "^2.11.2",
+    "request": "^2.69.0",
+    "rimraf": "^2.5.2",
+    "sleep": "^3.0.1",
+    "suncalc": "^1.7.0",
+    "twit": "^2.2.2"
+  }
+}

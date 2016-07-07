@@ -1,0 +1,162 @@
+[
+  {
+    "id": "baiona",
+    "nome": "Baiona",
+    "acceso": "http://85.91.64.26/baiona"
+  },
+  {
+    "id": "celanova",
+    "nome": "Celanova",
+    "acceso": "http://85.91.64.26/celanova/celanova"
+  },
+  {
+    "id": "ferrol",
+    "nome": "Ferrol",
+    "acceso": "http://85.91.64.19/ferrol/ferrol"
+  },
+  {
+    "id": "coruna_mobil",
+    "nome": "A Coruña, móbil",
+    "acceso": "http://85.91.64.26/coruna"
+  },
+  {
+    "id": "coruna_fixa",
+    "nome": "A Coruña, fixa",
+    "acceso": "http://85.91.64.19/coruna"
+  },
+  {
+    "id": "a_guarda",
+    "nome": "A Guarda",
+    "acceso": "http://85.91.64.26/aguarda"
+  },
+  {
+    "id": "a_rua",
+    "nome": "A Rúa",
+    "acceso": "http://85.91.64.26/arua"
+  },
+  {
+    "id": "tvg",
+    "nome": "TVG, San Marcos",
+    "acceso": "http://85.91.64.26/tvg"
+  },
+  {
+    "id": "manzaneda",
+    "nome": "Cabeza de Manzaneda",
+    "acceso": "http://85.91.64.19/manzaneda"
+  },
+  {
+    "id": "fisterra",
+    "nome": "Cabo Fisterra",
+    "acceso": "http://85.91.64.26/fisterra"
+  },
+  {
+    "id": "compostela_lateral",
+    "nome": "Catedral de Santiago, nave lateral",
+    "acceso": "http://85.91.64.19/catedrall"
+  },
+  {
+    "id": "compostela_central",
+    "nome": "Catedral de Santiago, nave central",
+    "acceso": "http://85.91.64.19/catedralc"
+  },
+  {
+    "id": "celanova",
+    "nome": "Celanova",
+    "acceso": "http://85.91.64.26/celanova"
+  },
+  {
+    "id": "lalin",
+    "nome": "Lalín",
+    "acceso": "http://85.91.64.19/lalin"
+  },
+  {
+    "id": "lugo",
+    "nome": "Lugo",
+    "acceso": "http://85.91.64.19/lugo"
+  },
+  {
+    "id": "compostela",
+    "nome": "Santiago de Compostela",
+    "acceso": "http://85.91.64.19/santiago"
+  },
+  {
+    "id": "o_cebreiro",
+    "nome": "O Cebreiro",
+    "acceso": "http://85.91.64.19/cebreiro"
+  },
+  {
+    "id": "o_grove",
+    "nome": "O Grove",
+    "acceso": "http://85.91.64.26/ogrove"
+  },
+  {
+    "id": "ortigueira",
+    "nome": "Ortigueira",
+    "acceso": "http://85.91.64.26/ortigueira"
+  },
+  {
+    "id": "ourense_mobil",
+    "nome": "Ourense, móbil",
+    "acceso": "http://85.91.64.26/ourense"
+  },
+  {
+    "id": "ourense_fixa",
+    "nome": "Ourense, fixa",
+    "acceso": "http://85.91.64.19/ourense"
+  },
+  {
+    "id": "pontevedra",
+    "nome": "Pontevedra",
+    "acceso": "http://85.91.64.19/pontevedra"
+  },
+  {
+    "id": "portomarin",
+    "nome": "Portomarín",
+    "acceso": "http://85.91.64.26/portomarin"
+  },
+  {
+    "id": "portonovo",
+    "nome": "Portonovo",
+    "acceso": "http://85.91.64.26/portonovo"
+  },
+  {
+    "id": "compostela_quintana",
+    "nome": "Praza da Quintana, Santiago de Compostela",
+    "acceso": "http://85.91.64.26/quintana"
+  },
+  {
+    "id": "compostela_obradoiro",
+    "nome": "Praza do Obradoiro, Santiago de Compostela",
+    "acceso": "http://85.91.64.26/obradoiro"
+  },
+  {
+    "id": "cesantes",
+    "nome": "Cesantes",
+    "acceso": "http://85.91.64.26/cesantes"
+  },
+  {
+    "id": "sanxenxo",
+    "nome": "Sanxenxo",
+    "acceso": "http://85.91.64.26/sanxenxo"
+  },
+  {
+    "id": "tui",
+    "nome": "Tui",
+    "acceso": "http://85.91.64.26/tui"
+  },
+  {
+    "id": "verin",
+    "nome": "Verín",
+    "acceso": "http://85.91.64.26/verin2"
+  },
+  {
+    "id": "vigo_fixa",
+    "nome": "Vigo, fixa",
+    "acceso": "http://85.91.64.26/vigo"
+  },
+  {
+    "id": "vigo_mobil",
+    "nome": "Vigo, móbil",
+    "acceso": "http://85.91.64.19/vigo"
+  }
+]
